@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 project
+This is a clone of original repository which is hosted here https://github.com/shivangibharani/GroupProject
+
